@@ -1,4 +1,4 @@
-module ufshop
+module github.com/timi-n1/ufshop
 
 go 1.22.0
 
